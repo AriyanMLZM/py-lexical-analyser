@@ -1,0 +1,18 @@
+ashar arz;
+ashar tool;
+arz = begir(ahsar);
+tool = begir(ashar);
+agar(tool == arz){
+    chap("moraba ast");
+    chap("masahat");
+    chap(arz * arz);
+    chap("mohit");
+    chap(arz * 4);
+}
+agar(tool != arz){
+    chap("mostatil ast");
+    chap("masahat");
+    chap(arz * tool);
+    chap("mohit");
+    chap(arz * 2 + tool * 2);
+}
